@@ -102,4 +102,4 @@ Deploy to heroku[WIP]
 ```
 Make sure you edited **config.json** with your bot token and id && Just
 **Click this button to deploy to heroku**
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sagirisayang/shell-bot/tree/master)
